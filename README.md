@@ -7,7 +7,8 @@
 | ----- |:---:| -----------:|
 |`/`		|GET	|Index page		|
 
-###List of users routes:
+
+### List of users routes:
 
 |Route	|HTTP		| Description				|
 | ------|:-----:| -----------------:|
@@ -17,7 +18,8 @@
 |`/users`	|PUT		|Update a user data			|
 |`/user/:id`|DELETE	|Remove a user data			|
 
-##List of employees routes:
+
+### List of employees routes:
 
 |Route		|HTTP		| Description				|
 | ------- |:-----:| -----------------:|
@@ -27,7 +29,8 @@
 |`/employees`	|PUT		|Update a banking employee data	|
 |`/employee/:id`	|DELETE	|Remove a banking employee data	|
 
-##List of accounts routes:
+
+### List of accounts routes:
 
 |Route		|HTTP		| Description				|
 | ------- |:-----:| -----------------:|
@@ -37,7 +40,8 @@
 |`/accounts`	|PUT		|Update a banking employee data	|
 |`/account/:id`	|DELETE	|Remove a banking employee data	|
 
-##Exported Package (Using npm):
+
+### Exported Package (Using npm):
 
 ```
 - Body Parser
@@ -48,7 +52,8 @@
 - jwks-rsa
 ```
 
-##Access the website via :
+
+## Access the website via :
 
 | MENU	|	LINK								|
 | ----- |:-------------------:|
